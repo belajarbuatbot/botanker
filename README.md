@@ -2,9 +2,9 @@
 
 🍙 Help me!
 
-* [Saweria](https://saweria.co/darkbot2412)
+* [Saweria](https://saweria.co/Bngjek)
 
-#Gopay/Pulsa/Dana:0813-6864-6011
+#Gopay/Pulsa/Dana:0858-3207-9751
 
 ## Tools
 
@@ -39,12 +39,12 @@ Follow The Steps Below!
 > termux-setup-storage
 (after that tap on permission)
 > apt install git -y
-> git clone https://github.com/4NK3R-PRODUCT1ON/botwea-termux
-> cd botwea
+> git clone https://github.com/belajarbuatbot/botanker
+> cd botanker
 > bash install.sh
 
 
-> pkg update && pkg upgrade && pkg install git && pkg install bash && git clone https://github.com/4NK3R-PRODUCT1ON/botwea-termux && cd botwea && bash install.sh && npm start
+> pkg update && pkg upgrade && pkg install git && pkg install bash && git clone https://github.com/belajarbuatbot/botanker && cd botanker && bash install.sh && npm start
 ```
 
 ## Usage
@@ -65,6 +65,7 @@ CEK SENDIRI GAN
 
 ## Special Thanks To
 
+- [ EDIT BY ZAKYY ]
 - [Baileys](https://github.com/adiwajshing/Baileys)
 - [MHANK BAR BAR](https://github.com/MhankBarBar)
 - [ RIZKY ]
